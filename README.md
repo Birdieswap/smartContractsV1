@@ -1,7 +1,7 @@
-# 🦜 BirdieSwap V1 (Preview Repository)
+# 🦜 Birdieswap V1 (Preview Repository)
 
 > **Disclaimer:**  
-> This repository is a **temporary public preview** of the BirdieSwap V1 smart contract system.  
+> This repository is a **temporary public preview** of the Birdieswap V1 smart contract system.  
 > It has been **selectively published** for **potential investors, grant program reviewers, and strategic partners** to review the core architecture and technical design of the protocol.
 
 Please note that this repository does **not represent the final production codebase**.  
@@ -11,7 +11,8 @@ A separate, updated repository containing the finalized deployment version will 
 
 ## Overview
 
-**BirdieSwap** is a decentralized liquidity and routing protocol designed to optimize swap execution and liquidity efficiency across multiple strategies.  
+**Birdieswap** is a decentralized liquidity and routing protocol designed to optimize swap execution and liquidity efficiency across multiple strategies.  
+
 The architecture emphasizes **modularity**, **security**, and **upgradeability** through a layered system of governance and execution contracts.
 
 This preview showcases the essential smart contracts that define the protocol’s structure and interaction model.
@@ -20,7 +21,8 @@ This preview showcases the essential smart contracts that define the protocol’
 
 ## 🧩 Core Components
 
-BirdieSwap V1 follows a modular architecture composed of distinct layers — **Routing**, **Vault & Strategy**, **Staking & Wrapper**, and **Governance & Infrastructure**.  
+Birdieswap V1 follows a modular architecture composed of distinct layers — **Routing**, **Vault & Strategy**, **Staking & Wrapper**, and **Governance & Infrastructure**.  
+
 Each component operates independently but interacts through standardized interfaces, ensuring security isolation and upgrade flexibility.
 
 ---
@@ -87,24 +89,25 @@ forge install Uniswap/v3-periphery@v1.4.4
 ## 📜 License & Usage
 
 All materials in this repository are shared **for review and informational purposes only**.  
-Commercial use, redistribution, or modification requires prior written permission from the BirdieSwap team.
+Commercial use, redistribution, or modification requires prior written permission from the Birdieswap team.
 
 ---
 
 ## 🪶 Important Note
 
-This repository represents only a **partial and temporary release** of the BirdieSwap codebase.  
+This repository represents only a **partial and temporary release** of the Birdieswap codebase.  
 Additional modules, deployment scripts, and configuration details have been intentionally omitted for operational and security reasons.  
+
 A finalized audited version will be released under a separate repository following mainnet deployment.
 
 ---
 
 ## 📫 Contact
 
-- **Email:** [contact@birdieswap.com](mailto:contact@birdieswap.com)  
-- **X:** [@BirdieSwap](https://x.com/Birdieswap)
-- **Website:** https://birdieswap.com (full functional website is coming soon)
+- **Email:** [contact@Birdieswap.com](mailto:contact@Birdieswap.com)  
+- **X:** [@Birdieswap](https://x.com/Birdieswap)
+- **Website:** https://Birdieswap.com (full functional website is coming soon)
 
 ---
 
-**© 2025 BirdieSwap Protocol. All rights reserved.**
+**© 2025 Birdieswap Protocol. All rights reserved.**
