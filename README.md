@@ -27,7 +27,7 @@ Each component operates independently but interacts through standardized interfa
 
 ---
 
-### ⚙️ Routing Layer
+### Routing Layer
 | Contract              | Description                                                                                                                                                                        |
 | --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `BirdieswapWrapperV1` | Wrapper contract providing user-friendly interfaces for deposit, withdrawal, and multi-step operations with native ETH. Acts as an interaction layer between users and the router. |
@@ -35,7 +35,7 @@ Each component operates independently but interacts through standardized interfa
 
 ---
 
-### 💰 Vault & Strategy Layer
+### Vault & Strategy Layer
 | Contract                     | Description                                                                                                                              |
 | ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | `BirdieswapSingleVaultV1`    | Vault implementation managing single-asset strategies. Handles user deposits, share accounting, and yield tracking.                      |
@@ -45,14 +45,14 @@ Each component operates independently but interacts through standardized interfa
 
 ---
 
-### 🪶 Staking Layer
+### Staking Layer
 | Contract              | Description                                                                                                            |
 | --------------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | `BirdieswapStakingV1` | Protocol staking module that allows users to stake governance or liquidity tokens to earn rewards or governance power. |
 
 ---
 
-### 🏛 Governance & Infrastructure Layer
+### Governance & Infrastructure Layer
 | Contract                    | Description                                                                                                     |
 | --------------------------- | --------------------------------------------------------------------------------------------------------------- |
 | `BirdieswapRoleRouterV1`    | Manages protocol-wide role-based permissions and access control routing across modules.                         |
