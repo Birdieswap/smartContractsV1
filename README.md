@@ -19,7 +19,7 @@ This preview showcases the essential smart contracts that define the protocol’
 
 ---
 
-## 🧩 Core Components
+## Core Components
 
 Birdieswap V1 follows a modular architecture composed of distinct layers — **Routing**, **Vault & Strategy**, **Staking & Wrapper**, and **Governance & Infrastructure**.  
 
@@ -86,14 +86,14 @@ forge install Uniswap/v3-periphery@v1.4.4
 
 ---
 
-## 📜 License & Usage
+## License & Usage
 
 All materials in this repository are shared **for review and informational purposes only**.  
 Commercial use, redistribution, or modification requires prior written permission from the Birdieswap team.
 
 ---
 
-## 🪶 Important Note
+## Important Note
 
 This repository represents only a **partial and temporary release** of the Birdieswap codebase.  
 Additional modules, deployment scripts, and configuration details have been intentionally omitted for operational and security reasons.  
@@ -102,7 +102,7 @@ A finalized audited version will be released under a separate repository followi
 
 ---
 
-## 📫 Contact
+## Contact
 
 - **Email:** [contact@Birdieswap.com](mailto:contact@Birdieswap.com)  
 - **X:** [@Birdieswap](https://x.com/Birdieswap)
